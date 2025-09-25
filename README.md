@@ -28,4 +28,4 @@ Just **Python + imagination**. ✨
 ### 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-based-python-programs.git
+   git clone https://github.com/Yirmeyahuu/PythonProjects.git
